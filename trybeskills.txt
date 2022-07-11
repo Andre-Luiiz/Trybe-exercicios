@@ -3,3 +3,5 @@ bash
 git
 HTML
 CSS
+HTML
+CSS
