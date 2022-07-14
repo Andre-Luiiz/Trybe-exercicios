@@ -1,0 +1,28 @@
+h1{
+    width: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: end;
+  }
+ ul{
+  background-color: blue;
+ }
+ .cordefundo {
+  background-color: pink;
+ }
+ p{
+  font-weight: 600;
+  font-size: 3em;
+ }
+ body {
+  font-size: 16px;
+ }
+ #corlista1 {
+  background-color: blue;
+ }
+ #corlista2 {
+  background-color: red;
+ }
+ #corlista3 {
+  background-color: blueviolet;
+ }
