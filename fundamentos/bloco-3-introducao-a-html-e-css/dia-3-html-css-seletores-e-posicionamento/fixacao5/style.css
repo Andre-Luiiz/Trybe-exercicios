@@ -7,3 +7,11 @@
 .listaordimpar {
     color: green;
 }
+.titulo {
+    color: red;
+}
+.tituloitalico {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
