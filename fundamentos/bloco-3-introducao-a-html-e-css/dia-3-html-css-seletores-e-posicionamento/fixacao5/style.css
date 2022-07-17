@@ -26,3 +26,22 @@ li.listaordimpar, li.listaordpar {
 .listajava {
     background-color: pink;
 }
+.aliados:hover {
+    font-weight: bolder;
+    text-decoration: none;
+}
+.stackoverflow:hover {
+    color: orange;
+}
+.w3school:hover {
+    color: green;
+}
+.devdocs:hover {
+    color: yellow;
+}
+.developer:hover {
+    color: black;
+}
+.betrybe:hover {
+    color: green;
+}
