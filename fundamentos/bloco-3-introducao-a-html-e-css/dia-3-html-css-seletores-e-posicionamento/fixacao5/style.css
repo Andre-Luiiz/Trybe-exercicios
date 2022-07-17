@@ -4,7 +4,7 @@
 .listaordimpar {
     text-transform: uppercase;
 }
-.listaordimpar {
+.listaordpar {
     color: green;
 }
 .titulo {
@@ -14,4 +14,9 @@
     font-size: 40px;
     border: 1px solid black;
 }
-
+li {
+    font-size: 20px;
+}
+li.listaordimpar, li.listaordpar {
+    font-weight: bolder;
+}
