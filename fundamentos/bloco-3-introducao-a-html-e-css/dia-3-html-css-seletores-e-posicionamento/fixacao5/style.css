@@ -1,0 +1,47 @@
+.listaordenada {
+    background-color: yellow;
+}
+.listaordimpar {
+    text-transform: uppercase;
+}
+.listaordpar {
+    color: green;
+}
+.titulo {
+    color: red;
+}
+.tituloitalico {
+    font-size: 40px;
+    border: 1px solid black;
+}
+li {
+    font-size: 20px;
+}
+li.listaordimpar, li.listaordpar {
+    font-weight: bolder;
+}
+.listaprogram {
+    color: blue;
+}
+.listajava {
+    background-color: pink;
+}
+.aliados:hover {
+    font-weight: bolder;
+    text-decoration: none;
+}
+.stackoverflow:hover {
+    color: orange;
+}
+.w3school:hover {
+    color: green;
+}
+.devdocs:hover {
+    color: yellow;
+}
+.developer:hover {
+    color: black;
+}
+.betrybe:hover {
+    color: green;
+}
