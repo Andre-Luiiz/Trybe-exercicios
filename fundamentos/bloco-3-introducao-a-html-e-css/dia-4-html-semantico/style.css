@@ -1,0 +1,47 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1511593358241-7eea1f3c84e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+    background-size: cover;
+    margin: 1%;
+  }
+  #title {
+    text-align: center;
+    border: solid rgb(0, 0, 14);
+    margin-top: 20px;
+  }
+  
+  ul, li {
+    list-style: none;
+    margin-right: 80px;
+    display: inline-block
+    
+  }
+  .navegação {
+    background-image: url(https://previews.123rf.com/images/tribalium123/tribalium1231304/tribalium123130400073/19316508-decorative-fish-background-background-with-fish-fish-seamless-background-fish-seamless-pattern-.jpg);
+    border: solid black;
+    
+  }
+  #fotostomp {
+    float: right;
+    
+    border: dotted black;
+
+  }
+  h3, h1, h2 {
+    text-align: center;
+    margin-top: 10px;
+
+  }
+  
+
+  article, main {
+    background-color: aqua;
+  }
+  .aside {
+    float: right;
+  }
+  .dadoscientificos li {
+    display: block;
+  
+  }
+  section {
+  }
